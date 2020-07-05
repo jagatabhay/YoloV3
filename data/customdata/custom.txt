@@ -414,14 +414,14 @@
 ./data/customdata/images/img413.jpg
 ./data/customdata/images/img414.jpg
 ./data/customdata/images/img415.jpg
-./data/customdata/images/img416.jpg
+./data/customdata/images/img416.JPG
 ./data/customdata/images/img417.jpg
 ./data/customdata/images/img418.jpg
 ./data/customdata/images/img419.jpg
 ./data/customdata/images/img420.jpg
 ./data/customdata/images/img421.jpg
 ./data/customdata/images/img422.jpg
-./data/customdata/images/img423.jpg
+./data/customdata/images/img423.JPG
 ./data/customdata/images/img424.jpg
 ./data/customdata/images/img425.jpg
 ./data/customdata/images/img426.jpg
